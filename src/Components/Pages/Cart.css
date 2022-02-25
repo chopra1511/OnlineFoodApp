@@ -1,0 +1,10 @@
+.cart {
+    border-bottom: 3px solid whitesmoke;
+}
+
+.cartItem {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 0;
+}
+

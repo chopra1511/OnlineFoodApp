@@ -1,0 +1,31 @@
+.details {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 0 0;
+    margin: 0;
+}
+
+.total_details {
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+    padding: 5px 0 0 35px;
+}
+
+.details > .MuiSvgIcon-root {
+    color: red;
+}
+
+.details > h5 {
+    margin: 0;
+}
+
+.cart_Item {
+    border-bottom: 3px solid whitesmoke;
+}
+
+.more > button {
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 50px;
+}

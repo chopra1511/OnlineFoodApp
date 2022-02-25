@@ -1,0 +1,21 @@
+.pay {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    position: sticky;
+    bottom: 56px;
+    right: 0px;
+    left: 0px;
+    background-color: rgb(241, 75, 75);
+    color: white;
+    
+}
+
+.pay > button {
+    color: white;
+}
+
+.pay > h6 {
+    margin: 0;
+    padding-top: 10px;
+}

@@ -1,0 +1,28 @@
+.products {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.add_item > button {
+    border-radius: 30px;
+    border: 1px solid grey;
+    font-weight: bolder;
+    color: rgb(42, 223, 18);
+}
+
+.image,
+.product_content,
+.add_item {
+    padding: 30px;
+    border-bottom: 2px solid whitesmoke;
+}
+
+.image > img {
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}
+
+h5 > .MuiSvgIcon-root {
+    color: red;
+}

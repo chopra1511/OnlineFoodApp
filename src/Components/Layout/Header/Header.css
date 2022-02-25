@@ -1,0 +1,18 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    border-bottom: 3px solid whitesmoke;
+    padding: 10px;
+}
+
+.header_right {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    
+}
+
